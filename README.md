@@ -2,5 +2,5 @@
 Fixed Navbar
 
 #URL
-https://pbhadra.github.io/Fixed_Navbar/
+https://pbhadra07.github.io/Fixed_Navbar/
 
